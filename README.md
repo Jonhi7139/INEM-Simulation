@@ -163,4 +163,5 @@ A single base class with **5 inner static subclasses**, all `Serializable`:
 ## Authors
 
 **João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+
 **João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
