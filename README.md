@@ -157,3 +157,11 @@ A single base class with **5 inner static subclasses**, all `Serializable`:
 - No admin view of individual worker histories; only global occurrence lists.
 - Ambulance coordinates are randomly generated within the Coimbra urban area bounding box at registration time and never updated after dispatch.
 - Pending emergencies are not automatically re-checked when resources become free; a worker must manually trigger resolution (option 3).
+
+---
+
+## Authors
+
+**João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+
+**João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
